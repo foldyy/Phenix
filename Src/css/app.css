@@ -1,0 +1,37 @@
+body {
+/*background: transparent !important;*/
+  background:#F2ECCB ;
+  background-repeat: no-repeat;
+  background-size:100%;
+  color: #29382E;
+  padding: 0;
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: 1.5;
+  position: relative;
+  cursor: auto; }
+
+  .header {
+
+    text-align: center;
+    font-family: Times new roman;
+    background-color: pink;
+    color:green;
+    overflow: visible;
+    padding: 100px;
+    
+  }
+
+  #wrapper {
+     
+
+     margin: 0px auto; 
+     max-width: 62.5em; 
+     width: 100%; 
+     box-shadow: 0px 0px 15px;
+     /*color:White;*/
+     border-radius: .5em;
+     height:auto;
+}
